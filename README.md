@@ -46,13 +46,13 @@ Interpreting ML model weights using brain regions
 📈 Visualizations
 
 
-##ERD Time-Frequency Representation
+### ERD Time-Frequency Representation
 
 
 ![ERD Feature](images/erd_plot.png)
 
 
-##SVM Feature Weights (Interpretability)
+### SVM Feature Weights (Interpretability)
 
 ![Features](images/feature_weights.png)
 
