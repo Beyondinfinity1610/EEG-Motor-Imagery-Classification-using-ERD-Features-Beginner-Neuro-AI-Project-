@@ -44,16 +44,19 @@ Feature engineering vs raw deep learning
 Interpreting ML model weights using brain regions
 
 📈 Visualizations
-Raw EEG Signals
-![EEG Signal](images/raw_eeg_plot.png)
 
 
-ERD Time-Frequency Representation
+##ERD Time-Frequency Representation
+
+
 ![ERD Feature](images/erd_plot.png)
 
 
-SVM Feature Weights (Interpretability)
+##SVM Feature Weights (Interpretability)
+
 ![Features](images/feature_weights.png)
+
+
 🤖 Model
 
 A linear Support Vector Machine (SVM) was trained using ERD-based features from motor cortex channels.
