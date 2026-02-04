@@ -22,7 +22,7 @@ Reference: http://www.ncbi.nlm.nih.gov/pubmed/15188875
 Raw EEG → Filtering (1–40 Hz) → Event-based Epoching →
 ERD Feature Extraction → SVM Classification → Model Interpretation
 
-![PIPELINE](images/pipeline_demo.gif)
+
 
 
 
@@ -49,9 +49,11 @@ Raw EEG Signals
 
 
 ERD Time-Frequency Representation
+![ERD Feature](images/erd_plot.png)
+
 
 SVM Feature Weights (Interpretability)
-
+![Features](images/feature_weights.png)
 🤖 Model
 
 A linear Support Vector Machine (SVM) was trained using ERD-based features from motor cortex channels.
